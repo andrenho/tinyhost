@@ -1,0 +1,16 @@
+- Automation
+- Backup
+- Blogging / Website hosting
+- Bookmarks
+- Database management (?)
+- Notion-like (?)
+- DNS (?)
+- Static webserver
+- Feed reader / podcast reader
+- Games (?)
+- Monitoring
+- Pastebin
+- Proxy (?)
+- Project management / Task management
+- Status
+- Wiki
